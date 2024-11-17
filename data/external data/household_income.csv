@@ -1,0 +1,37 @@
+﻿"Adjusted household disposable income, Canada, provinces and territories, annual (x 1,000,000)",,,
+Frequency: Annual,,,
+Table: 36-10-0612-01,,,
+Release date: 2023-03-28,,,
+"Geography: Canada, Province or territory",,,
+,,,
+,,,
+,,,
+,,,
+Geography,Reference period,Household disposable income,Household net saving
+Quebec,2018,"247,779","12,748"
+Quebec,2019,"258,667","16,875"
+Quebec,2020,"279,330","49,178"
+Quebec,2021,"294,025","42,852"
+Ontario,2018,"477,970","-5,921"
+Ontario,2019,"499,271",-125
+Ontario,2020,"545,725","81,620"
+Ontario,2021,"568,268","70,646"
+Alberta,2018,"166,484","9,002"
+Alberta,2019,"173,175","13,092"
+Alberta,2020,"181,565","28,813"
+Alberta,2021,"185,204","21,437"
+British Columbia,2018,"174,989","-7,861"
+British Columbia,2019,"187,555","-2,262"
+British Columbia,2020,"206,667","20,763"
+British Columbia,2021,"216,617","12,919"
+,,,
+,,,
+,,,
+,,,
+Footnotes:,,,
+1,"Provincial and territorial data are not available for the last reference year.  Also note that Canada's and provincial/territorial totals do not correspond to the Provincial and territorial economic accounts (PTEA) at certain times of the year, notably after the PTEA's release, which is generally in November.  Estimates are brought back in line when data for Adjusted household disposable income (AHDI) are published, generally in March. ",,
+,,,
+,,,
+,,,
+"How to cite: Statistics Canada. Table 36-10-0612-01  Adjusted household disposable income, Canada, provinces and territories, annual (x 1,000,000)",,,
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610061201,,,

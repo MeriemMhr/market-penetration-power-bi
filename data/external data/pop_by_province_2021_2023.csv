@@ -1,0 +1,157 @@
+﻿REF_DATE,GEO,VALUE
+2021-01,Newfoundland and Labrador,525895
+2021-04,Newfoundland and Labrador,526195
+2021-07,Newfoundland and Labrador,527056
+2021-10,Newfoundland and Labrador,528335
+2022-01,Newfoundland and Labrador,528977
+2022-04,Newfoundland and Labrador,529249
+2022-07,Newfoundland and Labrador,531583
+2022-10,Newfoundland and Labrador,533444
+2023-01,Newfoundland and Labrador,534964
+2023-04,Newfoundland and Labrador,536291
+2023-07,Newfoundland and Labrador,538605
+2023-10,Newfoundland and Labrador,540418
+2021-01,Prince Edward Island,159240
+2021-04,Prince Edward Island,160334
+2021-07,Prince Edward Island,162133
+2021-10,Prince Edward Island,163775
+2022-01,Prince Edward Island,164195
+2022-04,Prince Edward Island,165524
+2022-07,Prince Edward Island,167188
+2022-10,Prince Edward Island,169146
+2023-01,Prince Edward Island,169935
+2023-04,Prince Edward Island,171790
+2023-07,Prince Edward Island,173787
+2023-10,Prince Edward Island,175853
+2021-01,Nova Scotia,990025
+2021-04,Nova Scotia,993946
+2021-07,Nova Scotia,999908
+2021-10,Nova Scotia,1006805
+2022-01,Nova Scotia,1010460
+2022-04,Nova Scotia,1014827
+2022-07,Nova Scotia,1025445
+2022-10,Nova Scotia,1035666
+2023-01,Nova Scotia,1040195
+2023-04,Nova Scotia,1047803
+2023-07,Nova Scotia,1058694
+2023-10,Nova Scotia,1066416
+2021-01,New Brunswick,784950
+2021-04,New Brunswick,787002
+2021-07,New Brunswick,790802
+2021-10,New Brunswick,795755
+2022-01,New Brunswick,798656
+2022-04,New Brunswick,801778
+2022-07,New Brunswick,809568
+2022-10,New Brunswick,817766
+2023-01,New Brunswick,820943
+2023-04,New Brunswick,826622
+2023-07,New Brunswick,834691
+2023-10,New Brunswick,842725
+2021-01,Quebec,8550561
+2021-04,Quebec,8556015
+2021-07,Quebec,8572020
+2021-10,Quebec,8603553
+2022-01,Quebec,8613999
+2022-04,Quebec,8627524
+2022-07,Quebec,8672185
+2022-10,Quebec,8730868
+2023-01,Quebec,8767038
+2023-04,Quebec,8814007
+2023-07,Quebec,8874683
+2023-10,Quebec,8948540
+2021-01,Ontario,14772726
+2021-04,Ontario,14808093
+2021-07,Ontario,14842488
+2021-10,Ontario,14942272
+2022-01,Ontario,14999441
+2022-04,Ontario,15046211
+2022-07,Ontario,15145006
+2022-10,Ontario,15283961
+2023-01,Ontario,15378179
+2023-04,Ontario,15457075
+2023-07,Ontario,15608369
+2023-10,Ontario,15801768
+2021-01,Manitoba,1383854
+2021-04,Manitoba,1388611
+2021-07,Manitoba,1391924
+2021-10,Manitoba,1396460
+2022-01,Manitoba,1400663
+2022-04,Manitoba,1405197
+2022-07,Manitoba,1413409
+2022-10,Manitoba,1423596
+2023-01,Manitoba,1432674
+2023-04,Manitoba,1443875
+2023-07,Manitoba,1454902
+2023-10,Manitoba,1465440
+2021-01,Saskatchewan,1166348
+2021-04,Saskatchewan,1167711
+2021-07,Saskatchewan,1167711
+2021-10,Saskatchewan,1168901
+2022-01,Saskatchewan,1171031
+2022-04,Saskatchewan,1173366
+2022-07,Saskatchewan,1178422
+2022-10,Saskatchewan,1187607
+2023-01,Saskatchewan,1194869
+2023-04,Saskatchewan,1200540
+2023-07,Saskatchewan,1209107
+2023-10,Saskatchewan,1218976
+2021-01,Alberta,4418338
+2021-04,Alberta,4425617
+2021-07,Alberta,4431531
+2021-10,Alberta,4450442
+2022-01,Alberta,4465537
+2022-04,Alberta,4480956
+2022-07,Alberta,4510891
+2022-10,Alberta,4561350
+2023-01,Alberta,4598444
+2023-04,Alberta,4645229
+2023-07,Alberta,4695290
+2023-10,Alberta,4756408
+2021-01,British Columbia,5180015
+2021-04,British Columbia,5200393
+2021-07,British Columbia,5226665
+2021-10,British Columbia,5267184
+2022-01,British Columbia,5286478
+2022-04,British Columbia,5310164
+2022-07,British Columbia,5356284
+2022-10,British Columbia,5403528
+2023-01,British Columbia,5431355
+2023-04,British Columbia,5466646
+2023-07,British Columbia,5519013
+2023-10,British Columbia,5581127
+2021-01,Yukon,42157
+2021-04,Yukon,42443
+2021-07,Yukon,42961
+2021-10,Yukon,43119
+2022-01,Yukon,43063
+2022-04,Yukon,43454
+2022-07,Yukon,43905
+2022-10,Yukon,44113
+2023-01,Yukon,44386
+2023-04,Yukon,44596
+2023-07,Yukon,44975
+2023-10,Yukon,45148
+2021-01,Northwest Territories,44432
+2021-04,Northwest Territories,44679
+2021-07,Northwest Territories,44579
+2021-10,Northwest Territories,44621
+2022-01,Northwest Territories,44791
+2022-04,Northwest Territories,44828
+2022-07,Northwest Territories,44685
+2022-10,Northwest Territories,44664
+2023-01,Northwest Territories,44515
+2023-04,Northwest Territories,44678
+2023-07,Northwest Territories,44972
+2023-10,Northwest Territories,44760
+2021-01,Nunavut,39750
+2021-04,Nunavut,39879
+2021-07,Nunavut,40086
+2021-10,Nunavut,40232
+2022-01,Nunavut,40285
+2022-04,Nunavut,40489
+2022-07,Nunavut,40485
+2022-10,Nunavut,40431
+2023-01,Nunavut,40521
+2023-04,Nunavut,40481
+2023-07,Nunavut,40673
+2023-10,Nunavut,40817
